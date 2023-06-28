@@ -10,6 +10,7 @@ body {
   /* background-color: #121826; */
   background-color: rgba(0, 6, 22, 1);
   background-image: url("images/bg.png");
+  overflow-x: hidden;
 }
 
 .blur-container {
